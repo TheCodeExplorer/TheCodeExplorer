@@ -6,12 +6,17 @@ Full-stack web developer | B.Tech CSE student | Building practical software + ex
 
 ## About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at QIS College of Engineering and Technology, Andhra Pradesh (2023–2027) — CGPA 8.5
-- 💻 Focused on **full-stack web development**
-- 💼 Internship experience: **Cardiff University Team Project** (Sep–Oct 2025), **AICTE EduSkills**
-- 🌱 Currently exploring AI-powered developer tooling
-- 🎯 Actively looking for **software engineering internships / entry-level roles**
-- 📜 Certified via Coursera and NPTEL <!-- swap in specific certification names if you want them named -->
+## Hi there 👋
+
+I'm Venkatesh, a Computer Science Engineering student interested in software development and modern web technologies.
+
+🚀 Currently building full-stack projects
+
+🌱 Learning advanced backend development and system design
+
+💡 Interested in Web Development, APIs, Databases, and Software Engineering
+
+⚡ I enjoy turning ideas into real-world applications through code.
 
 ---
 
