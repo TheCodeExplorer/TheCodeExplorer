@@ -59,15 +59,6 @@ An Arduino-based IoT cradle that detects a baby's cry via a sound sensor and aut
 
 ---
 
-## 📊 GitHub Stats
-
-![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCodeExplorer&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeExplorer&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=TheCodeExplorer&theme=default&hide_border=true)
-
----
 
 ## 📫 Connect
 
