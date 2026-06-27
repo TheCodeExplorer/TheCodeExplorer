@@ -1,106 +1,71 @@
-<div align="center">
+# Hi, I'm Venkatesh 👋
 
-# Hi, I'm Venkatesh Talluri 👋
-
-### Full Stack Developer | Java • Python • React • Next.js
-
-Building scalable web applications, solving real-world problems, and continuously improving my software engineering skills.
-
-<p>
-  <a href="https://github.com/TheCodeExplorer">
-    <img src="https://img.shields.io/badge/GitHub-TheCodeExplorer-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/venkatesh-talluri-9893a3217">
-    <img src="https://img.shields.io/badge/LinkedIn-Venkatesh_Talluri-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:venkateshtalluri12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
-</div>
+Full-stack web developer | B.Tech CSE student | Building practical software + exploring AI-powered tooling
 
 ---
 
-# 🚀 Featured Projects
+## About Me
 
-## 📌 PRONOVA
-A full-stack project and task management platform featuring workspace dashboards, secure authentication, reminders, analytics, and responsive dark/light mode.
-
-**Tech Stack**
-
-`Next.js` `React` `Node.js` `Express` `Prisma` `PostgreSQL` `Tailwind CSS`
-
----
-
-## 📌 Smart Cradle Monitoring System
-
-An IoT-enabled smart cradle that allows caregivers to remotely monitor and control cradle status with real-time alerts and mobile connectivity.
-
-**Tech Stack**
-
-`IoT` `Embedded Systems` `Firebase` `Mobile Integration`
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at QIS College of Engineering and Technology, Andhra Pradesh (2023–2027) — CGPA 8.5
+- 💻 Focused on **full-stack web development**
+- 💼 Internship experience: **Cardiff University Team Project** (Sep–Oct 2025), **AICTE EduSkills**
+- 🌱 Currently exploring AI-powered developer tooling
+- 🎯 Actively looking for **software engineering internships / entry-level roles**
+- 📜 Certified via Coursera and NPTEL <!-- swap in specific certification names if you want them named -->
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Featured Projects
 
-### Languages
+**[PRONOVA — Minimalist Project & Task Management](https://github.com/TheCodeExplorer/PRONOVA)**
+A high-performance project & task management platform with a real-time dashboard, smart task prioritization, interactive deadline reminders, and role-based team collaboration.
+🔗 **Live**: [project-management-gules-mu.vercel.app](https://project-management-gules-mu.vercel.app)
+`Next.js 16` · `React 19` · `Zustand` · `Clerk` · `Prisma` · `Neon (PostgreSQL)` · `Tailwind CSS`
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+**[iCradle — Smart Baby Cradle System](https://github.com/TheCodeExplorer/iCradle)**
+An Arduino-based IoT cradle that detects a baby's cry via a sound sensor and automatically soothes with servo-driven rocking and gentle tones, while monitoring temperature and moisture for safety alerts.
+`Arduino` · `C++`
 
 ---
 
-# 🌱 Currently Learning
+## 🛠️ Tech Stack
 
-- Advanced Java
-- System Design
-- Data Structures & Algorithms
-- Backend Architecture
-- Cloud Deployment
+**Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Hosting**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
-# 🎯 Areas of Interest
+## 📊 GitHub Stats
 
-- Full Stack Development
-- Backend Engineering
-- Software Engineering
-- REST API Development
-- Database Design
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCodeExplorer&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeExplorer&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=TheCodeExplorer&theme=default&hide_border=true)
 
 ---
 
-<div align="center">
+## 📫 Connect
 
-### Thanks for visiting!
-
-*"Code. Learn. Improve. Repeat."*
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#) <!-- add your LinkedIn URL -->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:#) <!-- add your email -->
+<!-- add portfolio link once it's live -->
