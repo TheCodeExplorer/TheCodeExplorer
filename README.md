@@ -1,186 +1,74 @@
-<div align="center">
+# Hi, I'm Venkatesh 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=220&section=header&text=Venkatesh%20Talluri&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20·%20IoT%20Builder%20·%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
+Full-stack web developer | B.Tech CSE student | Building practical software + exploring AI-powered tooling
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+---
 
-<a href="https://github.com/TheCodeExplorer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+PRONOVA+%E2%80%94+Project+%26+Task+Platform;IoT+%2B+Arduino+Tinkerer;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
-</a>
+## About Me
+I'm Venkatesh, a Computer Science Engineering student interested in software development and modern web technologies.
 
-<br/>
+🚀 Currently building full-stack projects
 
-<img src="https://img.shields.io/badge/Status-Open_to_Internships-22C55E?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/B.Tech_CSE-2023–2027-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Andhra_Pradesh,_India-06B6D4?style=for-the-badge"/>
+🌱 Learning advanced backend development and system design
 
-</div>
+💡 Interested in Web Development, APIs, Databases, and Software Engineering
 
-<br/>
+⚡ I enjoy turning ideas into real-world applications through code.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header" width="100%"/>
+---
 
-## 👋 About
+## 🚀 Featured Projects
 
-I'm a B.Tech CSE student at **QIS College of Engineering and Technology**, building full-stack web apps and IoT systems — and currently looking for software engineering internships where I can ship real things.
+**[PRONOVA — Minimalist Project & Task Management](https://github.com/TheCodeExplorer/PRONOVA)**
+A high-performance project & task management platform with a real-time dashboard, smart task prioritization, interactive deadline reminders, and role-based team collaboration.
+🔗 **Live**: [project-management-gules-mu.vercel.app](https://project-management-gules-mu.vercel.app)
+`Next.js 16` · `React 19` · `Zustand` · `Clerk` · `Prisma` · `Neon (PostgreSQL)` · `Tailwind CSS`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[iCradle — Smart Baby Cradle System](https://github.com/TheCodeExplorer/iCradle)**
+An Arduino-based IoT cradle that detects a baby's cry via a sound sensor and automatically soothes with servo-driven rocking and gentle tones, while monitoring temperature and moisture for safety alerts.
+`Arduino` · `C++`
 
-**💼 Internship Experience**
-Cardiff University Team Project (Sep–Oct 2025)
-AICTE EduSkills — MERN Stack
+---
 
-</td>
-<td width="50%" valign="top">
+## 🛠️ Tech Stack
 
-**🚀 Focus Areas**
-Full-Stack Web Development · IoT Systems
+**Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**🌱 Currently Exploring**
-AI-powered developer tooling
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</td>
-</tr>
-</table>
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<br/>
+**Tools & Hosting**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-## 🛠️ Currently Building
+---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" align="left"/>
+## 📊 GitHub Stats
 
-<table width="100%">
-<tr>
-<td>
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCodeExplorer&show_icons=true&theme=default&hide_border=true)
 
-### PRONOVA
-**Full-stack project & task management platform**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeExplorer&layout=compact&hide_border=true)
 
-`Next.js 16` · `React 19` · `Zustand` · `Clerk` · `Prisma` · `Neon` · `Tailwind CSS`
+![GitHub Streak](https://streak-stats.demolab.com/?user=TheCodeExplorer&theme=default&hide_border=true)
 
-<img src="https://img.shields.io/badge/Status-Actively_Developing-22C55E?style=flat-square"/>
-
-**Live:** [project-management-gules-mu.vercel.app](https://project-management-gules-mu.vercel.app)
-**Repo:** [github.com/TheCodeExplorer/PRONOVA](https://github.com/TheCodeExplorer/PRONOVA)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💡 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📋 PRONOVA
-Full-stack project & task management platform with real-time dashboards, smart task prioritization, deadline reminders, and role-based team collaboration.
-
-**Stack:** Next.js 16 · React 19 · Prisma · Neon · Clerk · Tailwind
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TheCodeExplorer/PRONOVA)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://project-management-gules-mu.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍼 iCradle
-Arduino-based IoT smart cradle — detects a baby's cry via sound sensor, soothes with automated servo rocking + gentle tones, and monitors temperature & moisture for safety alerts.
-
-**Stack:** Arduino · C++ · Embedded Systems
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TheCodeExplorer/iCradle)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ⚙️ Tech Stack
-
-<table width="100%">
-<tr>
-<td valign="top" width="20%"><b>Languages</b></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Frontend</b></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Backend</b></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=ffffff"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Database</b></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Neon-0D1117?style=for-the-badge&logo=neon&logoColor=00E599"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Cloud & Tools</b></td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🏆 Achievements & Journey
-
-<table width="100%">
-<tr><td>
-
-**🎓 Certifications** — Coursera & NPTEL <!-- swap in specific course titles -->
-**💼 Internships** — Cardiff University Team Project (Sep–Oct 2025) · AICTE EduSkills (MERN Stack)
-**📈 Learning Journey** — Full-stack web development → exploring AI-powered tooling
-<!-- Hackathons / open-source contributions: add here once you have entries -->
-
-</td></tr>
-</table>
-
-<br/>
+---
 
 ## 📫 Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/venkatesh-talluri-9893a3217/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:venkateshtalluri12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCodeExplorer)
-<!-- add Portfolio link once deployed -->
-<!-- add LeetCode / HackerRank / CodeChef badges here only if you actively use them -->
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TheCodeExplorer&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" />
-
-**Thanks for visiting — made with care by Venkatesh**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=100&section=footer" width="100%"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-talluri-9893a3217/) <!-- add your LinkedIn URL -->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:venkateshtalluri12@gmail.com) <!-- add your email -->
+<!-- add portfolio link once it's live -->
