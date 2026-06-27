@@ -6,34 +6,29 @@ Full-stack web developer | B.Tech CSE student | Building practical software + ex
 
 ## About Me
 
-## Hi there 👋
-
 I'm Venkatesh, a Computer Science Engineering student interested in software development and modern web technologies.
 
-🚀 Currently building full-stack projects
-
-🌱 Learning advanced backend development and system design
-
-💡 Interested in Web Development, APIs, Databases, and Software Engineering
-
-⚡ I enjoy turning ideas into real-world applications through code.
+- 🚀 Currently building full-stack projects
+- 🌱 Learning advanced backend development and system design
+- ⚡ Interested in Web Development, APIs, Databases, and Software Engineering
+- 🧠 I enjoy turning ideas into real-world applications through code.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Featured Projects
 
-**[PRONOVA — Minimalist Project & Task Management](https://github.com/TheCodeExplorer/PRONOVA)**
+**[PRONOVA - Minimalist Project & Task Management](https://github.com/TheCodeExplorer/PRONOVA)**
 A high-performance project & task management platform with a real-time dashboard, smart task prioritization, interactive deadline reminders, and role-based team collaboration.
-🔗 **Live**: [project-management-gules-mu.vercel.app](https://project-management-gules-mu.vercel.app)
-`Next.js 16` · `React 19` · `Zustand` · `Clerk` · `Prisma` · `Neon (PostgreSQL)` · `Tailwind CSS`
+- 🔗 **Live**: [project-management-gules-mu.vercel.app](https://project-management-gules-mu.vercel.app)
+- `Next.js 16` | `React 19` | `Zustand` | `Clerk` | `Prisma` | `Neon (PostgreSQL)` | `Tailwind CSS`
 
-**[iCradle — Smart Baby Cradle System](https://github.com/TheCodeExplorer/iCradle)**
+**[iCradle - Smart Baby Cradle System](https://github.com/TheCodeExplorer/iCradle)**
 An Arduino-based IoT cradle that detects a baby's cry via a sound sensor and automatically soothes with servo-driven rocking and gentle tones, while monitoring temperature and moisture for safety alerts.
-`Arduino` · `C++`
+- `Arduino` | `C++`
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -59,9 +54,7 @@ An Arduino-based IoT cradle that detects a baby's cry via a sound sensor and aut
 
 ---
 
+## 📬 Connect
 
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-talluri-9893a3217/) <!-- add your LinkedIn URL -->
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:venkateshtalluri12@gmail.com) <!-- add your email -->
-<!-- add portfolio link once it's live -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-talluri-9893a3217/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:venkateshtalluri12@gmail.com)
