@@ -1,195 +1,74 @@
-<!-- HEADER SECTION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=36&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Venkatesh+Talluri;Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing Greeting" />
-  
-  <p align="center">
-    <strong>Building high-performance web applications and exploring intelligent developer tools.</strong>
-  </p>
+# Hi, I'm Venkatesh 👋
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/venkatesh-talluri-9893a3217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:venkateshtalluri12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Separator" />
-</div>
+Full-stack web developer | B.Tech CSE student | Building practical software + exploring AI-powered tooling
 
-<br />
+---
 
-<!-- ABOUT & CURRENTLY BUILDING SECTION -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Left Column: About Me -->
-    <td width="48%" valign="top">
-      <div align="left">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man-Technologist.webp" width="25" /> Quick Overview</h3>
-        <table width="100%">
-          <tr>
-            <td><b>🎓 Education</b></td>
-            <td>B.Tech Computer Science Engineering (2023 - 2027)</td>
-          </tr>
-          <tr>
-            <td><b>📍 Location</b></td>
-            <td>Andhra Pradesh, India</td>
-          </tr>
-          <tr>
-            <td><b>💼 Role</b></td>
-            <td>Software Engineer & Frontend Specialist</td>
-          </tr>
-          <tr>
-            <td><b>🌱 Learning</b></td>
-            <td>Advanced Distributed Systems & AI Integrations</td>
-          </tr>
-          <tr>
-            <td><b>⚡ Fun Fact</b></td>
-            <td>Enjoy competitive programming and exploring modern UI trends.</td>
-          </tr>
-        </table>
-      </div>
-    </td>
-    <!-- Spacer -->
-    <td width="4%"></td>
-    <!-- Right Column: Currently Building -->
-    <td width="48%" valign="top">
-      <div align="left">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activities/Rocket.webp" width="25" /> Currently Building</h3>
-        <p>
-          <strong><a href="https://github.com/TheCodeExplorer/PRONOVA">PRONOVA</a></strong> — Minimalist Project & Task Management
-        </p>
-        <p>
-          A high-performance management dashboard featuring live workload indicators, automated reminder flows, and collaborative features.
-        </p>
-        <p>
-          <b>🛠️ Stack:</b> Next.js 16 • React 19 • Zustand 5 • Clerk • Prisma • Neon PostgreSQL
-        </p>
-        <p>
-          🟢 Status: <i>Active Development</i>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+## About Me
+I'm Venkatesh, a Computer Science Engineering student interested in software development and modern web technologies.
 
-<br />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Separator" />
-<br />
+🚀 Currently building full-stack projects
 
-<!-- FEATURED PROJECTS -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Folder.webp" width="25" /> Featured Projects</h3>
+🌱 Learning advanced backend development and system design
 
-<!-- PRONOVA Card -->
-<table>
-  <tr>
-    <td>
-      <h4>🚀 <a href="https://github.com/TheCodeExplorer/PRONOVA">PRONOVA</a></h4>
-      <p>A beautiful, modern project management suite designed with Linear and Apple aesthetics. Provides clean dashboard statistics, email-based team collaboration invitations, and dynamic task tracking.</p>
-      <p>
-        <b>Tech Stack:</b> <code>Next.js 16</code> • <code>React 19</code> • <code>Zustand</code> • <code>Clerk Auth</code> • <code>Prisma ORM</code> • <code>Neon (PostgreSQL)</code> • <code>Tailwind CSS 4</code>
-      </p>
-      <p>
-        ✨ <b>Features:</b> Live workload indicator badges, interactive deadlines popovers, Nodemailer invite system, custom Tailwind dark/light theme toggle.
-      </p>
-      <p>
-        <a href="https://github.com/TheCodeExplorer/PRONOVA">📂 Repository</a> • <a href="https://project-management-gules-mu.vercel.app">🌐 Live Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+💡 Interested in Web Development, APIs, Databases, and Software Engineering
 
-<!-- iCradle Card -->
-<table>
-  <tr>
-    <td>
-      <h4>👶 <a href="https://github.com/TheCodeExplorer/iCradle">iCradle</a></h4>
-      <p>A smart, automated baby monitoring and soothing system. Listens to baby sounds, triggers smooth servo-driven rocking motion, plays comforting melodies, and provides real-time safety metrics.</p>
-      <p>
-        <b>Tech Stack:</b> <code>Node.js</code> • <code>Express.js</code> • <code>Socket.io</code> • <code>Arduino (C++)</code> • <code>HTML5 / CSS3</code>
-      </p>
-      <p>
-        ✨ <b>Features:</b> Real-time temperature & humidity serial stream monitoring, customizable dashboard settings, automatic cry detection triggered rocking.
-      </p>
-      <p>
-        <a href="https://github.com/TheCodeExplorer/iCradle">📂 Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
+⚡ I enjoy turning ideas into real-world applications through code.
 
-<br />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Separator" />
-<br />
+---
 
-<!-- TECH STACK -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Hammer-And-Wrench.webp" width="25" /> Tech Stack</h3>
+## 🚀 Featured Projects
 
-<p>
-  <b>🗣️ Languages:</b>
-  <code>JavaScript</code> • <code>TypeScript</code> • <code>Java</code> • <code>C++</code> • <code>SQL</code>
-</p>
-<p>
-  <b>🎨 Frontend:</b>
-  <code>React 19</code> • <code>Next.js 16</code> • <code>Tailwind CSS 4</code> • <code>HTML5</code> • <code>CSS3</code>
-</p>
-<p>
-  <b>⚙️ Backend & Databases:</b>
-  <code>Node.js</code> • <code>Express.js</code> • <code>Prisma ORM</code> • <code>PostgreSQL (Neon)</code> • <code>MySQL</code>
-</p>
-<p>
-  <b>🔧 Tools & Clouds:</b>
-  <code>Git</code> • <code>GitHub Actions</code> • <code>Clerk</code> • <code>Vercel</code> • <code>Arduino IDE</code> • <code>Postman</code>
-</p>
+**[PRONOVA — Minimalist Project & Task Management](https://github.com/TheCodeExplorer/PRONOVA)**
+A high-performance project & task management platform with a real-time dashboard, smart task prioritization, interactive deadline reminders, and role-based team collaboration.
+🔗 **Live**: [project-management-gules-mu.vercel.app](https://project-management-gules-mu.vercel.app)
+`Next.js 16` · `React 19` · `Zustand` · `Clerk` · `Prisma` · `Neon (PostgreSQL)` · `Tailwind CSS`
 
-<br />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Separator" />
-<br />
+**[iCradle — Smart Baby Cradle System](https://github.com/TheCodeExplorer/iCradle)**
+An Arduino-based IoT cradle that detects a baby's cry via a sound sensor and automatically soothes with servo-driven rocking and gentle tones, while monitoring temperature and moisture for safety alerts.
+`Arduino` · `C++`
 
-<!-- GITHUB STATS & TROPHIES -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart-Increasing.webp" width="25" /> GitHub Analytics</h3>
+---
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=TheCodeExplorer&show_icons=true&theme=dark&title_color=7C3AED&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Venkatesh's GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeExplorer&layout=compact&theme=dark&title_color=7C3AED&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCodeExplorer&theme=dark&background=0d1117&ring=7C3AED&fire=06B6D4&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheCodeExplorer&theme=github_dark" alt="Activity Summary" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <h4>👾 Interactive Contribution Snake</h4>
-  <img src="https://raw.githubusercontent.com/TheCodeExplorer/TheCodeExplorer/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
+## 🛠️ Tech Stack
 
-<br />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Separator" />
-<br />
+**Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<!-- FOOTER -->
-<div align="center">
-  <p>
-    Thanks for visiting my profile! 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Hand-Gestures/Writing-Hand.webp" width="20" /> 
-    Made with ❤️ by Venkatesh
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=TheCodeExplorer&color=7C3AED&style=flat-square&label=Profile+Views" alt="Views Counter" />
-  </p>
-</div>
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Hosting**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCodeExplorer&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeExplorer&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=TheCodeExplorer&theme=default&hide_border=true)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-talluri-9893a3217/) <!-- add your LinkedIn URL -->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:venkateshtalluri12@gmail.com) <!-- add your email -->
+<!-- add portfolio link once it's live -->
