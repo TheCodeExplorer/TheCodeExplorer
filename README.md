@@ -4,14 +4,15 @@ Full-stack web developer | B.Tech CSE student | Building practical software + ex
 
 ---
 
-## About Me
+I'm Venkatesh, a Computer Science Engineering student interested in software development and modern web technologies.
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at QIS College of Engineering and Technology, Andhra Pradesh (2023–2027) — CGPA 8.5
-- 💻 Focused on **full-stack web development**
-- 💼 Internship experience: **Cardiff University Team Project** (Sep–Oct 2025), **AICTE EduSkills**
-- 🌱 Currently exploring AI-powered developer tooling
-- 🎯 Actively looking for **software engineering internships / entry-level roles**
-- 📜 Certified via Coursera and NPTEL <!-- swap in specific certification names if you want them named -->
+🚀 Currently building full-stack projects
+
+🌱 Learning advanced backend development and system design
+
+💡 Interested in Web Development, APIs, Databases, and Software Engineering
+
+⚡ I enjoy turning ideas into real-world applications through code.
 
 ---
 
@@ -33,6 +34,7 @@ An Arduino-based IoT cradle that detects a baby's cry via a sound sensor and aut
 **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frontend**
@@ -54,18 +56,10 @@ An Arduino-based IoT cradle that detects a baby's cry via a sound sensor and aut
 
 ---
 
-## 📊 GitHub Stats
-
-![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCodeExplorer&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeExplorer&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=TheCodeExplorer&theme=default&hide_border=true)
-
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#) <!-- add your LinkedIn URL -->
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:#) <!-- add your email -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-talluri-9893a3217/) <!-- add your LinkedIn URL -->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:venkateshtalluri12gmail.com) <!-- add your email -->
 <!-- add portfolio link once it's live -->
